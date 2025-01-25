@@ -1,31 +1,26 @@
-# Hi there, I'm Putbotz! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatkhur03&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-## About Me
-- 🔭 I’m currently working on [your current project or area of focus].
-- 🌱 I’m currently learning [what you are learning, e.g., React, Machine Learning, etc.].
-- 👯 I’m looking to collaborate on [projects or topics you are interested in].
-- 🤔 I’m looking for help with [areas where you need help].
-- 💬 Ask me about [your expertise or topics you are interested in].
-- 📫 How to reach me: [your contact information or social media links].
-- 😄 Pronouns: [your pronouns].
-- ⚡ Fun fact: [an interesting fact about yourself].
+# Hi 👋! I'm PutXd
 
-## My GitHub Stats
-![Putbotz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Putbotz&show_icons=true&theme=radical)
+As a 5th semester student majoring in Information Systems at Nurul Fikri Integrated Technology College, I have a huge passion for technology and am always eager to stay updated on the latest trends in the world. Oh, and I also have a lot of followers on social media! On Instagram, I have over 90K followers, on LinkedIn over 500, and on TikTok over 3K. Let's be friends! 
+<!-- ## 🌐 Socials: -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/story.thur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatkhurrhn/) 
+ 
+<!-- ## 💻 Technical Skills:
 
-## Languages and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Putbotz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Projects
-- [Project 1](https://github.com/Putbotz/project1): A brief description of your project.
-- [Project 2](https://github.com/Putbotz/project2): A brief description of your project.
-- [Project 3](https://github.com/Putbotz/project3): A brief description of your project.
-
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
-
-## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- **Frontend Development:** HTML/CSS3, JavaScript, Bootstrap :v
+- **Tools and Design:** VSCode, GitHub and Figma -->
+##
+<!-- snake graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+<!-- <h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4> -->
+</div>
+<br>
+<div align="left">
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Putbotz&theme=github-compact&radius=16" height="auto" alt="by PutXd"/>
